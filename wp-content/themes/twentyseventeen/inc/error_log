@@ -1,0 +1,24 @@
+[31-Mar-2022 04:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[31-Mar-2022 05:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[31-Mar-2022 06:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/custom-header.php:61
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/custom-header.php on line 61
+[31-Mar-2022 07:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/customizer.php:161
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/customizer.php on line 161
+[31-Mar-2022 08:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/template-tags.php:199
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 199
+[31-Mar-2022 08:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/template-functions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/inc/template-functions.php on line 67

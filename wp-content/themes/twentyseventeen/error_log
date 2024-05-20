@@ -1,0 +1,69 @@
+[01-Mar-2021 15:05:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2021 21:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Jul-2021 18:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Aug-2021 18:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[26-Sep-2021 08:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[03-Oct-2021 05:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-Mar-2022 11:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Mar-2022 20:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/index.php on line 18
+[31-Mar-2022 02:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[31-Mar-2022 03:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/header.php on line 16
+[31-Mar-2022 04:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[31-Mar-2022 05:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/search.php on line 13
+[31-Mar-2022 05:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[31-Mar-2022 06:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/front-page.php on line 15
+[31-Mar-2022 06:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/searchform.php on line 13
+[31-Mar-2022 06:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/single.php on line 13
+[31-Mar-2022 08:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[31-Mar-2022 08:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/page.php on line 18

@@ -1,0 +1,20 @@
+[31-Mar-2022 02:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17
+[31-Mar-2022 06:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-image.php on line 15
+[31-Mar-2022 06:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 15
+[31-Mar-2022 07:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[31-Mar-2022 09:13:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15

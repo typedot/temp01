@@ -1,0 +1,44 @@
+[08-Mar-2021 21:16:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Mar-2021 21:16:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Mar-2021 21:16:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[17-May-2021 21:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/locale.php on line 11
+[19-May-2021 15:45:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/class-walker-nav-menu.php on line 17
+[05-Nov-2021 00:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/locale.php on line 11
+[06-Nov-2021 08:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/class-walker-nav-menu.php on line 17
+[15-Nov-2021 19:41:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[15-Nov-2021 19:41:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[15-Nov-2021 19:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[15-Nov-2021 19:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[15-Nov-2021 19:41:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Feb-2022 02:22:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Feb-2022 02:22:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Feb-2022 02:22:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Feb-2022 02:22:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[08-Feb-2022 02:22:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[21-Feb-2022 20:36:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[21-Feb-2022 20:36:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[21-Feb-2022 20:36:36 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[21-Feb-2022 20:36:36 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[21-Feb-2022 20:36:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Mar-2022 15:33:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Mar-2022 15:33:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Mar-2022 15:33:09 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Mar-2022 15:33:09 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Mar-2022 15:33:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Apr-2022 05:08:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Apr-2022 05:08:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Apr-2022 05:08:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Apr-2022 05:08:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8
+[12-Apr-2022 05:08:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/orangnad/public_html/cazetechnologies.com/wp-includes/functions.php on line 8

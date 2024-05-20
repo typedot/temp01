@@ -1,0 +1,29 @@
+[01-Mar-2021 15:02:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/404.php on line 10
+[15-Aug-2021 16:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/content-link.php on line 13
+[31-Aug-2021 03:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/archive.php on line 19
+[14-Sep-2021 14:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/index.php on line 17
+[14-Sep-2021 14:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/index.php on line 17
+[19-Sep-2021 23:15:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[02-Oct-2021 01:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/content.php on line 13
+[13-Oct-2021 12:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/orangnad/public_html/cazetechnologies.com/wp-content/themes/twentyfifteen/404.php on line 10

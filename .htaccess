@@ -1,0 +1,68 @@
+# BEGIN HTTPS Redirection Plugin
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^443$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+# END HTTPS Redirection Plugin
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+Redirect 301 /google-adwards/ https://cazetechnologies.com/google-ads-ppc/
+Redirect 301 /blog/best-organic-techniques-for-on-page-seo/ https://cazetechnologies.com/blog/organic-on-page-seo-techniques/
+Redirect 301 /blog/best-organic-techniques-for-off-page-seo/ https://cazetechnologies.com/blog/organic-off-page-seo-techniques/
+
+#Customize expires cache start - adjust the period according to your needs
+<IfModule mod_expires.c>
+  FileETag MTime Size
+  AddOutputFilterByType DEFLATE text/plain text/html text/xml text/css application/xml application/xhtml+xml application/rss+xml application/javascript application/x-javascript
+  ExpiresActive On
+  ExpiresByType text/html "access 600 seconds"
+  ExpiresByType application/xhtml+xml "access 600 seconds"
+  ExpiresByType text/css "access 3 month"
+  ExpiresByType text/javascript "access 3 month"
+  ExpiresByType text/x-javascript "access 3 month"
+  ExpiresByType application/javascript "access 3 month"
+  ExpiresByType application/x-javascript "access 3 month"
+  ExpiresByType application/x-shockwave-flash "access 3 month"
+  ExpiresByType application/pdf "access 3 month"
+  ExpiresByType image/x-icon "access 1 year"
+  ExpiresByType image/jpg "access 1 year"  
+  ExpiresByType image/jpeg "access 1 year"
+  ExpiresByType image/png "access 1 year"
+  ExpiresByType image/gif "access 1 year"
+  ExpiresDefault "access 1 month"
+</IfModule>
+#Expires cache end
+
+# BEGIN Cache-Control Headers
+<IfModule mod_expires.c>
+  <IfModule mod_headers.c>
+    <filesMatch "\.(ico|jpe?g|png|gif|swf)$">
+      Header append Cache-Control "public"  
+    </filesMatch>
+    <filesMatch "\.(css)$">
+      Header append Cache-Control "public"
+    </filesMatch>
+    <filesMatch "\.(js)$">
+      Header append Cache-Control "private"
+    </filesMatch>
+    <filesMatch "\.(x?html?|php)$">
+      Header append Cache-Control "private, must-revalidate"
+    </filesMatch>
+  </IfModule>
+</IfModule>

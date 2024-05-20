@@ -1,0 +1,4 @@
+#fw-extensions-list-wrapper .toggle-not-compat-ext-btn-wrapper,
+#fw-ext-brizy, .fw-brz-dismiss {
+    display: none;
+}

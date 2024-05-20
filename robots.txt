@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://cazetechnologies.com/sitemap_index.xml
